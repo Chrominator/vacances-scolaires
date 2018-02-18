@@ -27,3 +27,5 @@ Ensuite, paramétrer l'appel du script dans la crontab une fois par jour.
 
 Note : si le calendrier officiel ne convient pas (calendrier de vacances différent), vous pouvez générer votre propre calendrier ICAL
 puis l'héberger sur le serveur www de Domoticz et définir manuellement la variable Vacances_Scolaires_Source vers ce chemin.
+
+Voir https://easydomoticz.com/forum/viewtopic.php?f=17&t=5601 pour plus d'infos
